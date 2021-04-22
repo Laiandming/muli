@@ -1,11 +1,12 @@
 <!--错误页展示-->
 <!DOCTYPE html>
 <meta charset="utf-8 ">
-<meta name="">
+<meta name="viewport" content="width=device-width">
 <title>
-    !!!∑(ﾟДﾟノ)ノ啊，崩溃啦
+    404 - 找不到页面
 </title>
 <head>
+    
 
 </head>
 
