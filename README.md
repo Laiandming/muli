@@ -1,1 +1,4 @@
-用来做后面自己用的WordPress模板，绝对绝对不会弃坑的！！！
+# Description
+
+尝试制作的个人blog模板
+
